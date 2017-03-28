@@ -1,0 +1,30 @@
+html {
+  font-family: Helvetica, sans-serif;
+
+}
+
+#brand-image{
+  height: 30px;
+  width: 30px;
+  margin-top: -5px;
+}
+
+
+body{
+  background-image:url('http://www.skyviewgolfandcountryclub.com/wp-content/uploads/2013/11/SkyView_1013-1529_RT.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+}
+
+@media screen and (max-width: 996px)  {
+  #hiderow{
+    display: none;
+  }
+}
+
+.well img{
+  width: 30px;
+  height: 30px;
+}
